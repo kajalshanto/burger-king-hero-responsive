@@ -34,6 +34,8 @@ a {
 .nav-logo img {
     width: 105px !important;
     margin-top: -35px;
+    height: 105;
+    width: 105;
 }
 
 .nav-links {
